@@ -1,0 +1,102 @@
+/* ---------nav------ */
+.custom-logo{
+    width: 50px;
+}
+
+.custom-input{
+    border-radius: 0;
+    background-color: grey;
+}
+
+.custom-input:focus{
+    background-color: #fff;
+    border: solid 1px #000;
+}
+
+.custom-input::placeholder{
+    color: white;
+}
+
+.custom-nav-button{
+    background-color: grey;
+    border-radius: 0;
+    color: white;
+    border: solid 1px white;
+}
+
+/* --------carousel--------- */
+
+.custom-carousel-img{
+    /* width: 500px !important; */
+    height: 100vh;
+}
+
+h2{
+    color: #fff;
+}
+
+.card{
+    background-color:rgb(87, 93, 104);
+}
+
+
+.card-body > h5{
+    color: #fff;
+    font-size: 14px;
+}
+
+.card-body > a {
+    background-color: #fff;
+    color: blue ;
+    border: solid 1px white;
+    border-radius: 0;
+}
+
+.card-body > a:hover {
+    background-color: skyblue;
+    color: red;
+}
+
+.fondo {
+    color: #fff;
+}
+
+.mapa{
+    display: flex;
+    justify-content: center;
+    
+
+}
+
+.llama{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.experiencias{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.fotos2{
+    width: 800px;
+    margin-left: 50px;
+    margin-right: 50px;
+        }
+
+.comment{
+    width: 200px;
+}
+
+.imagesss{
+    width: 500px;
+}
+
+
+.azul[
+    display: f
+
+]
